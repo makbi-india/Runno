@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258003883204",
+    "project_id": "runno-8f1e0",
+    "storage_bucket": "runno-8f1e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258003883204:android:3d23944ef95909ba13a591",
+        "android_client_info": {
+          "package_name": "com.mycompany.runno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3n32PEyUu4gS4Ejk29CvYZw6yExFgCJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
